@@ -1,0 +1,8 @@
+admin
+adm
+mysql
+administrator
+oracle
+ftp
+bin
+postgres

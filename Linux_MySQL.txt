@@ -1,0 +1,6 @@
+root
+admin
+adm
+mysql
+administrator
+
